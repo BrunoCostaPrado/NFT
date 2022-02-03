@@ -1,0 +1,11 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "Repositorio para aprendizado de WEB 3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Costa Prado",
+  "license": "ISC"
+}
